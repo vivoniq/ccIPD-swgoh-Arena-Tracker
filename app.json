@@ -1,7 +1,7 @@
 {
   "name": "ccIPD-arena-tracker",
   "description": "ccIPD arena tracker",
-  "repository": "https://github.com/vivoniq/ccIPD-arena-tracker",
+  "repository": "https://github.com/vivoniq/swgoh-Arena-Tracker",
   "keywords": ["docker"],
   "stack": "container"
 }
